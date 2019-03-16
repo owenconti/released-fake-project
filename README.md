@@ -11,3 +11,7 @@ This is a breaking change.
 ---
 
 Another breaking change.
+
+--- 
+
+Breaking change for v2
