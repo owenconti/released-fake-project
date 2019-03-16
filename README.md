@@ -15,3 +15,7 @@ Another breaking change.
 --- 
 
 Breaking change for v2
+
+---
+
+New feature for v2
