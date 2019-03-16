@@ -11,3 +11,7 @@ This is a breaking change.
 ---
 
 Another breaking change.
+
+---
+
+This is a fix for the 1.0.0 release
