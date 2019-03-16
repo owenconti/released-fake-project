@@ -7,3 +7,7 @@ Update the readme
 ---
 
 This is a breaking change.
+
+---
+
+Another breaking change.
