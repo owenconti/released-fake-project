@@ -27,3 +27,7 @@ This is a new commit for a new tag
 ---
 
 This is version 2.1.5
+
+---
+
+This is a breaking change!
